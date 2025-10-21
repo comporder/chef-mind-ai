@@ -1,0 +1,10 @@
+gradio==5.5.0
+google-generativeai==0.8.3
+datasets==3.1.0
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0.post1
+pandas==2.2.3
+numpy==1.26.4
+python-dotenv==1.0.1
+gunicorn==23.0.0
+flask==3.0.3
