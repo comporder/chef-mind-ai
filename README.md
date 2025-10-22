@@ -26,7 +26,9 @@ ChefMind, hem yemek önerisi hem de adım adım tarif anlatımı yapabilir.
 ChefMind Hugging Face Space:
 - [https://huggingface.co/spaces/emirozalp/chefai](https://huggingface.co/spaces/emirozalp/chefai)
   
-https://github.com/user-attachments/assets/605e4c67-e344-4950-a364-4eb31b61f7ab
+<a href="https://www.youtube.com/watch?v=3NZdMiMp3Lc" target="_blank">
+  <img src="https://img.youtube.com/vi/3NZdMiMp3Lc/maxresdefault.jpg" width="900" alt="ChefMind Web Arayüzü Kullanım Videosu">
+</a>
 
 ## Veri Seti Hakkında  
 
