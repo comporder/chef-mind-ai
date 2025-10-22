@@ -25,10 +25,9 @@ ChefMind, hem yemek önerisi hem de adım adım tarif anlatımı yapabilir.
 ## Deploy Link
 ChefMind Hugging Face Space:
 - [https://huggingface.co/spaces/emirozalp/chefai](https://huggingface.co/spaces/emirozalp/chefai)
-  
-<a href="https://www.youtube.com/watch?v=3NZdMiMp3Lc" target="_blank">
-  <img src="https://img.youtube.com/vi/3NZdMiMp3Lc/maxresdefault.jpg" width="900" alt="ChefMind Web Arayüzü Kullanım Videosu">
-</a>
+
+<img src="https://github.com/user-attachments/assets/88d77091-5c32-45c9-b41a-79cf63f543e7" width="700">
+
 
 ## Veri Seti Hakkında  
 
